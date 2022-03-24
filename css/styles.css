@@ -21,9 +21,9 @@ text-align: center;
 
 p {
   font-family: arial;
-text-align: center;
-  margin-right: 150px;
-  margin-left: 150px;
+width:100%;
+display:block;
+margin:auto;
 }
 
 ul{
