@@ -22,10 +22,11 @@ text-align: center;
 
 p {
   font-family: arial;
+text-align: center;
 width:100%;
 display:block;
 margin-right: 150px;
-  margin-left: 80px;
+  margin-left: 150px;
 }
 
 ul{
