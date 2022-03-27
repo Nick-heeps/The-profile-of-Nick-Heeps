@@ -6,9 +6,7 @@ body{
 	background-colour: #6e8894;
 	margin: 0;
 
-}
-* {
-  box-sizing: border-box;
+
 }
 p.ex1 {
   max-width: 900px;
