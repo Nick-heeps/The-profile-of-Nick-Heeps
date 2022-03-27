@@ -3,11 +3,6 @@ html{
 }
 
 body{
-min-width: 700px;
-border: 4em
-margin: 4em
-padding: 0;
-vertical-align: baseline;
 }
 
 
@@ -24,6 +19,7 @@ vertical-align: baseline;
 }
 
 h1{
+min-width: 700px
 font-family: verdana;
 font-size 40px;
 text-align: center;
