@@ -3,6 +3,7 @@ html{
 }
 
 body{
+min-width: 700px;
 border: 4em
 margin: 4em
 padding: 0;
