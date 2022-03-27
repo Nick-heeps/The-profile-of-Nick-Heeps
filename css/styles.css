@@ -5,7 +5,11 @@ html{
 body{
 
 }
-
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
 
 .column {
   float: left;
