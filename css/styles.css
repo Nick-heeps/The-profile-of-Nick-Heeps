@@ -39,7 +39,10 @@ margin-right: 150px;
 }
 
 
-p {text-align: center;
+p {
+text-align: center;
+font-family: calibri;
+}
  
 ul{
 	
