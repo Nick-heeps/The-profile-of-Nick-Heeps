@@ -47,6 +47,7 @@ margin-right: 150px;
 
 
 p {
+min-width: 700px
 text-align: center;
 font-family: verdana;
 }
