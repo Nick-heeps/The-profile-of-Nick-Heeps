@@ -30,7 +30,14 @@ p.ex1 {
   clear: both;
 }
 
+h1{
 
+font-family: verdana;
+font-size 40px;
+text-align: center;
+	margin-right: 150px;
+  margin-left: 150px;
+}
 
 
 
