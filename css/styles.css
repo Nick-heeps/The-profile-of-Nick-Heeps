@@ -3,8 +3,13 @@ html{
 }
 
 body{
-	
+border: 4em
+margin: 4em
+padding: 0;
+vertical-align: baseline;
 }
+
+
 .column {
   float: left;
   width: 50%;
