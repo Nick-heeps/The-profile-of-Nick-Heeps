@@ -5,6 +5,9 @@ html{
 body{
 
 }
+p.ex1 {
+  max-width: 900px;
+}
 .content {
   max-width: 500px;
   margin: auto;
