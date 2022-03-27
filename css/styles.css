@@ -17,14 +17,14 @@ p.ex1 {
   padding: 10px;
 }
 
-a.column {
+.column {
   float: left;
   width: 33.33%;
   
 }
 
 
-a.row:after {
+.row:after {
   content: "";
   display: table;
   clear: both;
@@ -65,4 +65,13 @@ ul{
 
 li{
 	
+}
+.my-columns {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+
+.my-columns-5 .column {
+  flex-basis: 20%;
 }
